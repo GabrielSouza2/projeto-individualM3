@@ -1,6 +1,4 @@
-<center>
-  <h1>Projeto individual - JSON SERVER</h1>
-</center>
+<h1>Projeto individual - JSON SERVER</h1>
 Criação de uma api rest para ser consumida no projeto em grupo. Projeto individual módulo 3 / Senac + Resilia educação
 <hr size="">
     <p><strong>Link do servidor:</strong></p>

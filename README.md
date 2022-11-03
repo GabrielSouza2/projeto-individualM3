@@ -11,4 +11,5 @@ Criação de uma api rest para ser consumida no projeto em grupo. Projeto indivi
 <div>
   <img src="https://user-images.githubusercontent.com/112514408/199803241-f7bbe950-a82d-4651-a305-00c6cecc3f5e.PNG" width="700px"/>
 <br>
+ <hr size="">
 <p><strong>Como realizar as requisições?</strong></p>

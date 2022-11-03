@@ -8,6 +8,9 @@ Criação de uma api rest para ser consumida no projeto em grupo. Projeto indivi
 <hr size="">
 <p><strong>Como acessar e testar o projeto?</strong></p>
 <p>▶Você pode acessar clicando no link acima, lá terá acesso ao servidor (Json-Server) onde irá conter 3 rotas e cada rota terá 4 ou mais dados mokados. Nos quais o usuário poderá realizar os métodos GET, POST, PUT E DELETE.</p>
+<br>
+<p>▶Se estiver com dúvidas de como realizar as requisições no Json-server, acesse a documentação: https://github.com/typicode/json-server
+
 <div>
   <img src="https://user-images.githubusercontent.com/112514408/199803241-f7bbe950-a82d-4651-a305-00c6cecc3f5e.PNG" width="700px"/>
 <br>

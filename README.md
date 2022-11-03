@@ -17,4 +17,4 @@ Criação de uma api rest para ser consumida no projeto em grupo. Projeto indivi
 <br>
 <br>
 <p><strong>Como TESTAR as requisições?</strong></p>
-<p>1⃣ Primeiro passo: faço o download e a instalação do postman: https://www.postman.com/downloads/
+<p>:one: Primeiro passo: faço o download e a instalação do postman: https://www.postman.com/downloads/

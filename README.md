@@ -18,6 +18,7 @@ Criação de uma api rest para ser consumida no projeto em grupo. Projeto indivi
 <br>
 <p><strong>Como TESTAR as requisições?</strong></p>
 <p>:one:Faça o download e a instalação do postman: https://www.postman.com/downloads/</p>
-<p>:two:Após o download, clique em "Skip and go to the app". Assim você acessará o postman sem a necessidade de criar uma conta.
+<p>:two:Após o download, clique em "Skip and go to the app". Assim você acessará o postman sem a necessidade de criar uma conta.</p>
 <div>
   <img src="https://user-images.githubusercontent.com/112514408/199806779-2d05c145-0fe9-4e34-b3fb-5b283c7115ec.PNG" width="700px"/>
+<p>:three:Com o postman aberto clique em "Collections" e em seguida clique em "Create Collection". Dentro de collections você pode criar uma coleção de requisições para os testes que desejar, é interessante após a crianção do collections renomeá-lo para as requisições que deseja realizar para facilitar a sua organização.

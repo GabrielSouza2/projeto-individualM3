@@ -32,5 +32,6 @@ Criação de uma api rest para ser consumida no projeto em grupo. Projeto indivi
 <br>
 <p>:four:Clica nos 3 pontos como na imagem acima e adicione um request para o teste das requisições. Após isso é interessante você renomear a nova requisição criada para melhor organização e mudar o estilo da requisição para a qual você deseja como nos exemplos abaixo. Não esqueça de adionar o link do render acima.
 <div>
+  <img src="https://user-images.githubusercontent.com/112514408/199961425-7f85cc25-df63-43a5-b0fb-008a83dd7a1c.PNG" width="900px"/>
   <img src="https://user-images.githubusercontent.com/112514408/199961471-252bac94-a145-4ce3-a1cd-d08878ec5a93.PNG" width="900px"/>
   <img src="https://user-images.githubusercontent.com/112514408/199961512-3e72fec1-dee1-4b4e-80b8-6fdc2f9e2aac.PNG" width="900px"/>

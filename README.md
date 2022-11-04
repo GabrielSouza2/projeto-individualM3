@@ -24,3 +24,6 @@ Criação de uma api rest para ser consumida no projeto em grupo. Projeto indivi
 <p>:three:Com o postman aberto clique em "Collections" e em seguida clique em "Create Collection". Dentro de collections você pode criar uma coleção de requisições para os testes que desejar, é interessante após a crianção do collections renomeá-lo para as requisições que deseja realizar para facilitar a sua organização.
 <div>
   <img src="https://user-images.githubusercontent.com/112514408/199809437-0d94b540-fbd6-490a-a82a-6494875b20e9.PNG" width="700px"/>
+<br>
+<div>
+  <img src="https://user-images.githubusercontent.com/112514408/199809495-f84822ac-3d81-4938-b981-42b883303d50.PNG" width="700px"/>
